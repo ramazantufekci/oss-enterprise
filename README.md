@@ -14,6 +14,18 @@ It's easier to answer this question in terms of what should **not** be open sour
 
 Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
 
+
 ## FAQ
 
-#### Who owns the code I contribute to open source projects?
+#### Who owns the code I contribute to open source projectsss?
+
+We hope you are excited to get started! Head over to the take your first steps toward a :sparkles: Open Source program for your company.
+
+### What is the purpose of this repository?
+
+We hope you are excited to get started! Head over to the take your first steps toward a :sparkles: Open Source program for your company.
+
+### Who should someone contact if they have questions?
+
+Who should someone contact if they have questions?
+
